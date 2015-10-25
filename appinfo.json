@@ -1,0 +1,117 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "alexander.ou@gmail.com",
+    "longName": "HoroscopeCompanion",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/Info.png",
+                "name": "IMAGES_INFO_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/EmblemF2.png",
+                "name": "IMAGES_EMBLEMF2_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Virgo.png",
+                "name": "IMAGES_VIRGO_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Taurus.png",
+                "name": "IMAGES_TAURUS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Scorpio.png",
+                "name": "IMAGES_SCORPIO_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Sagittarius.png",
+                "name": "IMAGES_SAGITTARIUS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Pisces.png",
+                "name": "IMAGES_PISCES_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Libra.png",
+                "name": "IMAGES_LIBRA_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Leo.png",
+                "name": "IMAGES_LEO_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Gemini.png",
+                "name": "IMAGES_GEMINI_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Capricorn.png",
+                "name": "IMAGES_CAPRICORN_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Cancer.png",
+                "name": "IMAGES_CANCER_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Aries.png",
+                "name": "IMAGES_ARIES_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/Aquarius.png",
+                "name": "IMAGES_AQUARIUS_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "HoroscopeCompanion",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "5bc5eadf-ffd7-48db-a8fd-087574eb9976",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
