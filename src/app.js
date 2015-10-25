@@ -1,10 +1,11 @@
 /**
- * Welcome to Pebble.js!
- *
- * This is where you write your app.
+ * Horoscope Companion
+ * Alexander Ou, Miggy Calleja, Kenneth Yoo, Karson Kwan
+ * HackingEDU Pebble API Price List
+ * 25 Oct. 2015
  */
 
-// PUT IN IMAGE FOR TAURUS
+
 
 
 var UI = require('ui');
